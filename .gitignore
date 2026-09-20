@@ -1,0 +1,14 @@
+# Binaries built from ./cmd
+/benode
+/benode.exe
+/dist/
+
+# Go test/coverage artifacts
+*.test
+*.out
+coverage.txt
+coverage.html
+
+# Editor/OS noise
+.DS_Store
+*.swp
